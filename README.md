@@ -1,2 +1,2 @@
-# Coursera_Responsive-Website-Development-
+# Coursera_Responsive-Website-Development
 https://www.coursera.org/specializations/website-development
