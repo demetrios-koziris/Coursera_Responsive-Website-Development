@@ -4,6 +4,9 @@
 </head>
 
 <body>
+	<h1 id="title01" onclick="sayHello()"> Hello </h1>
+	<h1 id="title02" onclick="sayGoodbye();"> Hello </h1>
+
 	<!-- The onclick attribute is the code	     
              that happens when the element is clicked.	     
              The value of the attribute is some	     
@@ -38,3 +41,18 @@
 	    	Console.log
 	</h1>
 </body>
+<script type="text/javascript">
+	
+	function sayHello() {
+		alert('Hello');
+	};
+
+	function sayGoodbye(){
+        console.log("goodbye");
+        $("#title02").html("Goodbye");
+        $("#title02").click(function () {
+            $("#title02").html("Hello");
+            $("#title02").off("click");
+        });
+    };
+</script>
