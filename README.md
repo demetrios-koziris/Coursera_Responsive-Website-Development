@@ -1,4 +1,5 @@
 #Online Course Work
+
 <br>
 ##Coursera
 
@@ -21,7 +22,10 @@
 <br>
 ## Udemy
 
-### Automate the Boring Stuff with Python Programming
-
-https://www.udemy.com/automate/
+<a href="https://www.udemy.com/automate/"><h3>Automate the Boring Stuff with Python Programming</h3></a>
+<details> 
+  <summary>Course Completion</summary>
+  <p align="center">
+  </p>
+</details> 
 
