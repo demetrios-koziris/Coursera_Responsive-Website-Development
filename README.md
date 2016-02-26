@@ -1,9 +1,8 @@
 #Online Course Work
-
+<br>
 ##Coursera
 
-### Responsive Website Basics: Code with HTML, CSS, and JavaScript
-https://www.coursera.org/learn/website-coding
+<a href="https://www.coursera.org/learn/website-coding"><h3>Responsive Website Basics: Code with HTML, CSS, and JavaScript</h3></a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
@@ -12,14 +11,14 @@ https://www.coursera.org/learn/website-coding
   </p>
 </details> 
 
-### Responsive Web Design
-https://www.coursera.org/learn/responsive-web-design
+<a href="https://www.coursera.org/learn/responsive-web-design"><h3>Responsive Web Design</h3></a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
   </p>
 </details> 
 
+<br>
 ## Udemy
 
 ### Automate the Boring Stuff with Python Programming
