@@ -7,8 +7,8 @@
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_ResponsiveWebsiteBasics/CompletedGrade.PNG" width="100%">
-    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_ResponsiveWebsiteBasics/Completion.PNG" width="100%">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_RWDD1_ResponsiveWebsiteBasics/CompletedGrade.PNG" width="100%">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_RWDD1_ResponsiveWebsiteBasics/Completion.PNG" width="100%">
   </p>
 </details> 
 
