@@ -3,7 +3,7 @@
 <br>
 ##Coursera
 
-<a href="https://www.coursera.org/learn/website-coding"><h3>Responsive Website Basics: Code with HTML, CSS, and JavaScript</h3></a>
+<a href="https://www.coursera.org/learn/website-coding"><h3>RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</h3></a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
@@ -12,7 +12,7 @@
   </p>
 </details> 
 
-<a href="https://www.coursera.org/learn/responsive-web-design"><h3>Responsive Web Design</h3></a>
+<a href="https://www.coursera.org/learn/responsive-web-design"><h3>RWDD2: Responsive Web Design</h3></a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
