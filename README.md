@@ -29,3 +29,10 @@
   </p>
 </details> 
 
+<a href="https://www.udemy.com/complete-web-developer-course"><h3>The Complete Web Developer Course - Build 14 Websites</h3></a>
+<details> 
+  <summary>Course Completion</summary>
+  <p align="center">
+  </p>
+</details> 
+
