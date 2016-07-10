@@ -1,6 +1,17 @@
 #Online Course Work
 
 <br>
+##Codecademy
+
+<a href="https://www.codecademy.com/learn/javascript"><h3>JavaScript</h3></a>
+<details> 
+  <summary>Course Completion</summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Codecademy_JavaScript/Completion.png" width="100%">
+  </p>
+</details> 
+
+<br>
 ##Coursera
 
 <a href="https://www.coursera.org/learn/website-coding"><h3>RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</h3></a>
