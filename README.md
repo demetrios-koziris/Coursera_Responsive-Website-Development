@@ -18,8 +18,8 @@
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/CompletedGrade.PNG" width="100%">
-    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/Completion.PNG" width="100%">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/CompletedGrade.png" width="100%">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/Completion.png" width="100%">
   </p>
 </details> 
 
