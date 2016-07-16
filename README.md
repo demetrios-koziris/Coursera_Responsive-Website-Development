@@ -14,6 +14,15 @@
 <br>
 ##Coursera
 
+<a href="https://www.coursera.org/learn/learning-how-to-learn"><h3>Learning How to Learn: Powerful mental tools to help you master tough subjects</h3></a>
+<details> 
+  <summary>Course Completion</summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/CompletedGrade.png" width="100%">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/Completion.png" width="100%">
+  </p>
+</details> 
+
 <a href="https://www.coursera.org/learn/website-coding"><h3>RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</h3></a>
 <details> 
   <summary>Course Completion</summary>
