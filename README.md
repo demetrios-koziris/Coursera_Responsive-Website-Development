@@ -26,7 +26,8 @@
 
 <br>
 
-<a href="https://www.coursera.org/learn/machine-learning"><h3>Machine Learning</h3></a>
+##Coursera: <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
+<p>Created by: Stanford University</p>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
