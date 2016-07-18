@@ -15,6 +15,7 @@
 ##Coursera
 
 <a href="https://www.coursera.org/learn/learning-how-to-learn"><h3>Learning How to Learn: Powerful mental tools to help you master tough subjects</h3></a>
+<p>Created by: University of California, San Diego</p>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
