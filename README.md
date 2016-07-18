@@ -12,9 +12,9 @@
 </details> 
 
 <br>
-##Coursera
 
-<a href="https://www.coursera.org/learn/learning-how-to-learn"><h3>Learning How to Learn: Powerful mental tools to help you master tough subjects</h3></a>
+
+##Coursera: <a href="https://www.coursera.org/learn/learning-how-to-learn">Learning How to Learn: Powerful mental tools to help you master tough subjects</a>
 <p>Created by: University of California, San Diego</p>
 <details> 
   <summary>Course Completion</summary>
@@ -23,6 +23,8 @@
     <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/Completion.png" width="100%">
   </p>
 </details> 
+
+<br>
 
 <a href="https://www.coursera.org/learn/machine-learning"><h3>Machine Learning</h3></a>
 <details> 
