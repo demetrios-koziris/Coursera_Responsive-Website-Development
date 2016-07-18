@@ -57,6 +57,15 @@
 
 <br>
 
+###RMOTR: <a href="https://rmotr.com/advanced-python-programming">Advanced Python Programming</a>
+<details> 
+  <summary>Course Completion</summary>
+  <p align="center">
+  </p>
+</details> 
+
+<br>
+
 ###Udemy: <a href="https://www.udemy.com/automate/">Automate the Boring Stuff with Python Programming</a>
 <details> 
   <summary>Course Completion</summary>
