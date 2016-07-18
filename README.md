@@ -23,6 +23,14 @@
   </p>
 </details> 
 
+<a href="https://www.coursera.org/learn/machine-learning"><h3>Machine Learning</h3></a>
+<details> 
+  <summary>Course Completion</summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_MachineLearning/Completion.png" width="100%">
+  </p>
+</details> 
+
 <a href="https://www.coursera.org/learn/website-coding"><h3>RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</h3></a>
 <details> 
   <summary>Course Completion</summary>
