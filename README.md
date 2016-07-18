@@ -1,9 +1,8 @@
-#Online Course Work
+##Online Course Work
 
 <br>
-##Codecademy
 
-<a href="https://www.codecademy.com/learn/javascript"><h3>JavaScript</h3></a>
+###Codecademy: <a href="https://www.codecademy.com/learn/javascript">JavaScript</a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
@@ -13,8 +12,7 @@
 
 <br>
 
-
-##Coursera: <a href="https://www.coursera.org/learn/learning-how-to-learn">Learning How to Learn: Powerful mental tools to help you master tough subjects</a>
+###Coursera: <a href="https://www.coursera.org/learn/learning-how-to-learn">Learning How to Learn: Powerful mental tools to help you master tough subjects</a>
 <p>Created by: University of California, San Diego</p>
 <details> 
   <summary>Course Completion</summary>
@@ -26,7 +24,7 @@
 
 <br>
 
-##Coursera: <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
+###Coursera: <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
 <p>Created by: Stanford University</p>
 <details> 
   <summary>Course Completion</summary>
@@ -37,7 +35,7 @@
 
 <br>
 
-##Coursera: <a href="https://www.coursera.org/learn/website-coding">RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</a>
+###Coursera: <a href="https://www.coursera.org/learn/website-coding">RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</a>
 <p>Created by: University of London, Goldsmiths, University of London</p>
 <details> 
   <summary>Course Completion</summary>
@@ -49,7 +47,7 @@
 
 <br>
 
-##Coursera: <a href="https://www.coursera.org/learn/responsive-web-design">RWDD2: Responsive Web Design</a>
+###Coursera: <a href="https://www.coursera.org/learn/responsive-web-design">RWDD2: Responsive Web Design</a>
 <p>Created by: University of London, Goldsmiths, University of London</p>
 <details> 
   <summary>Course Completion</summary>
@@ -59,16 +57,16 @@
 
 <br>
 
-## Udemy
-
-<a href="https://www.udemy.com/automate/"><h3>Automate the Boring Stuff with Python Programming</h3></a>
+###Udemy: <a href="https://www.udemy.com/automate/">Automate the Boring Stuff with Python Programming</a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
   </p>
 </details> 
 
-<a href="https://www.udemy.com/complete-web-developer-course"><h3>The Complete Web Developer Course - Build 14 Websites</h3></a>
+<br>
+
+###Udemy: <a href="https://www.udemy.com/complete-web-developer-course">The Complete Web Developer Course - Build 14 Websites</a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
