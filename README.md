@@ -35,7 +35,10 @@
   </p>
 </details> 
 
-<a href="https://www.coursera.org/learn/website-coding"><h3>RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</h3></a>
+<br>
+
+##Coursera: <a href="https://www.coursera.org/learn/website-coding">RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</a>
+<p>Created by: University of London, Goldsmiths, University of London</p>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
@@ -44,7 +47,10 @@
   </p>
 </details> 
 
-<a href="https://www.coursera.org/learn/responsive-web-design"><h3>RWDD2: Responsive Web Design</h3></a>
+<br>
+
+##Coursera: <a href="https://www.coursera.org/learn/responsive-web-design">RWDD2: Responsive Web Design</a>
+<p>Created by: University of London, Goldsmiths, University of London</p>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
@@ -52,6 +58,7 @@
 </details> 
 
 <br>
+
 ## Udemy
 
 <a href="https://www.udemy.com/automate/"><h3>Automate the Boring Stuff with Python Programming</h3></a>
