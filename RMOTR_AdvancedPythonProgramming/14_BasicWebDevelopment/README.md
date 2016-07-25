@@ -17,3 +17,5 @@
 * HTTP2 explained: [http://daniel.haxx.se/http2/](http://daniel.haxx.se/http2/)
 
 * Intro to REST (HTTP-based) by Google: [https://www.youtube.com/watch?v=YCcAE2SCQ6k](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+
+**This unit has no coding assignments**
