@@ -8,7 +8,7 @@ var gallery = {
 	albums : [
 		{
 			name : "Travels", 
-			thumbnail : "images/img_1.jpg",
+			thumbnail : "https://upload.wikimedia.org/wikipedia/commons/2/2c/Extant_reptilia.jpg",
 			photos : [
 				{	
 					src : "images/img_1.jpg",
