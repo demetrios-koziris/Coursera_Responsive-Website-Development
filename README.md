@@ -59,8 +59,9 @@
 
 ###RMOTR: <a href="https://rmotr.com/advanced-python-programming">Advanced Python Programming</a>
 <details> 
-  <summary>Course Completion</summary>
+  <summary>Lesson Completion: <b>100%</b></summary>
   <p align="center">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/RMOTR_AdvancedPythonProgramming/Completion.png" width="30%">
   </p>
 </details> 
 
