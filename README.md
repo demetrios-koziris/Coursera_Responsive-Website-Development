@@ -65,7 +65,8 @@
     <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/RMOTR_AdvancedPythonProgramming/Completion.png" width="30%">
   </p>
 </details> 
-<details> 
+
+<p><details> 
   <summary>Projects Completion: <b>9/12</b></summary>
   <br>
   <p align="">
@@ -104,7 +105,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Week 3: <a href='https://github.com/rmotr-group-projects/pyp-w3-gw-jobs-detector/pull/12'>Jobs Detector<a>
   </p>
-</details> 
+</details></p> 
 
 <br>
 
