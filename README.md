@@ -67,7 +67,7 @@
 </details> 
 
 <p><details> 
-  <summary>Projects Completion: <b>9/12</b></summary>
+  <summary>Projects Completion: <b>11/12</b></summary>
   <br>
   <p align="">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,6 +104,14 @@
   <p align="">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Week 3: <a href='https://github.com/rmotr-group-projects/pyp-w3-gw-jobs-detector/pull/12'>Jobs Detector<a>
+  </p>
+  <p align="">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Week 4: <a href='https://github.com/rmotr-group-projects/pyp-w4-gw-twitter-clone/pull/15'>Twitter Clone<a>
+  </p>
+  <p align="">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Week 4: <a href='https://github.com/rmotr-group-projects/pyp-w4-gw-twitter-api/pull/15'>Twitter API<a>
   </p>
 </details></p> 
 
