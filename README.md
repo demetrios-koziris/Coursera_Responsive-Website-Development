@@ -12,6 +12,15 @@
 
 <br>
 
+###Codecademy: <a href="https://www.codecademy.com/learn/learn-git">Learn Git</a>
+<details> 
+  <summary>Course Completion: <b>0%</b></summary>
+  <p align="center">
+  </p>
+</details> 
+
+<br>
+
 ###Coursera: <a href="https://www.coursera.org/learn/learning-how-to-learn">Learning How to Learn: Powerful mental tools to help you master tough subjects</a>
 <p>Created by: University of California, San Diego</p>
 <details> 
