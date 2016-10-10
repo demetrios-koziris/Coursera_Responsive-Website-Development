@@ -33,7 +33,7 @@
 
 <br>
 
-###Coursera: <a href="https://www.coursera.org/learn/introduction-to-algorithms">Algorithms Part I</a>
+###Coursera: <a href="https://www.coursera.org/learn/introduction-to-algorithms">Algorithms Part I: Introduction To Algorithms</a>
 <details> 
   <summary>Course Completion: <b>0%</b></summary>
   <p align="center">
