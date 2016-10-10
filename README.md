@@ -12,7 +12,7 @@
 
 <br>
 
-###Codecademy: <a href="https://www.codecademy.com/learn/learn-git">Learn Git</a>
+###Coursera: <a href="https://www.coursera.org/learn/introduction-to-algorithms">Algorithms Part I</a>
 <details> 
   <summary>Course Completion: <b>0%</b></summary>
   <p align="center">
@@ -28,6 +28,17 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/CompletedGrade.png" width="100%">
     <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/Completion.png" width="100%">
+  </p>
+</details> 
+
+<br>
+
+###Coursera: <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
+<p>Created by: Stanford University</p>
+<details> 
+  <summary>Course Completion: <b>2/25</b></summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_MachineLearning/Completion.png" width="100%">
   </p>
 </details> 
 
