@@ -1,8 +1,8 @@
-##Online Course Work
+## Online Course Work
 
 <br>
 
-###Codecademy: <a href="https://www.codecademy.com/learn/javascript">JavaScript</a>
+### Codecademy: <a href="https://www.codecademy.com/learn/javascript">JavaScript</a>
 <details> 
   <summary>Course Completion: <b>100%</b></summary>
   <p align="center">
@@ -12,7 +12,7 @@
 
 <br>
 
-###Codecademy: <a href="https://www.codecademy.com/learn/learn-git">Learn Git</a>
+### Codecademy: <a href="https://www.codecademy.com/learn/learn-git">Learn Git</a>
 <details> 
   <summary>Course Completion: <b>0%</b></summary>
   <p align="center">
@@ -21,7 +21,7 @@
 
 <br>
 
-###Coursera: <a href="https://www.coursera.org/learn/learning-how-to-learn">Learning How to Learn: Powerful mental tools to help you master tough subjects</a>
+### Coursera: <a href="https://www.coursera.org/learn/learning-how-to-learn">Learning How to Learn: Powerful mental tools to help you master tough subjects</a>
 <p>Created by: University of California, San Diego</p>
 <details> 
   <summary>Course Completion: <b>5/5 with final grade of 99.4%</b></summary>
@@ -33,7 +33,7 @@
 
 <br>
 
-###Coursera: <a href="https://www.coursera.org/learn/introduction-to-algorithms">Algorithms Part I: Introduction To Algorithms</a>
+### Coursera: <a href="https://www.coursera.org/learn/introduction-to-algorithms">Algorithms Part I: Introduction To Algorithms</a>
 <p>Created by: Princeton University</p>
 <details> 
   <summary>Course Completion: <b>0%</b></summary>
@@ -43,7 +43,7 @@
 
 <br>
 
-###Coursera: <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
+### Coursera: <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
 <p>Created by: Stanford University</p>
 <details> 
   <summary>Course Completion: <b>2/25</b></summary>
@@ -54,7 +54,7 @@
 
 <br>
 
-###Coursera: <a href="https://www.coursera.org/learn/website-coding">RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</a>
+### Coursera: <a href="https://www.coursera.org/learn/website-coding">RWDD1: Responsive Website Basics: Code with HTML, CSS, and JavaScript</a>
 <p>Created by: University of London, Goldsmiths, University of London</p>
 <details> 
   <summary>Course Completion: <b>6/6 with final grade of 96.0%</b></summary>
@@ -66,7 +66,7 @@
 
 <br>
 
-###Coursera: <a href="https://www.coursera.org/learn/responsive-web-design">RWDD2: Responsive Web Design</a>
+### Coursera: <a href="https://www.coursera.org/learn/responsive-web-design">RWDD2: Responsive Web Design</a>
 <p>Created by: University of London, Goldsmiths, University of London</p>
 <details> 
   <summary>Course Completion: <b>6/6 with final grade of 98.0%</b></summary>
@@ -77,7 +77,7 @@
 
 <br>
 
-###RMOTR: <a href="https://rmotr.com/advanced-python-programming">Advanced Python Programming</a>
+### RMOTR: <a href="https://rmotr.com/advanced-python-programming">Advanced Python Programming</a>
 <details> 
   <summary>Lesson Completion: <b>100%</b></summary>
   <p align="center">
@@ -136,7 +136,7 @@
 
 <br>
 
-###Udemy: <a href="https://www.udemy.com/automate/">Automate the Boring Stuff with Python Programming</a>
+### Udemy: <a href="https://www.udemy.com/automate/">Automate the Boring Stuff with Python Programming</a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
@@ -145,7 +145,7 @@
 
 <br>
 
-###Udemy: <a href="https://www.udemy.com/complete-web-developer-course">The Complete Web Developer Course - Build 14 Websites</a>
+### Udemy: <a href="https://www.udemy.com/complete-web-developer-course">The Complete Web Developer Course - Build 14 Websites</a>
 <details> 
   <summary>Course Completion</summary>
   <p align="center">
