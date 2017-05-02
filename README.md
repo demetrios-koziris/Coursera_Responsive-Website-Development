@@ -37,7 +37,7 @@
 <details> 
   <summary>Course Completion: <b>5/5 with final grade of 94.3%</b></summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/CourseraIntroPhilosophy/Completion.png" width="100%">
+    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_IntroductionToPhilosophy/Completion.png" width="100%">
   </p>
 </details> 
 
