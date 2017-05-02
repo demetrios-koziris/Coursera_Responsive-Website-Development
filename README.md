@@ -26,7 +26,6 @@
 <details> 
   <summary>Course Completion: <b>5/5 with final grade of 99.4%</b></summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/CompletedGrade.png" width="100%">
     <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_LearningHowToLearn/Completion.png" width="100%">
   </p>
 </details> 
@@ -70,7 +69,6 @@
 <details> 
   <summary>Course Completion: <b>6/6 with final grade of 96.0%</b></summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_RWDD1_ResponsiveWebsiteBasics/CompletedGrade.PNG" width="100%">
     <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_RWDD1_ResponsiveWebsiteBasics/Completion.PNG" width="100%">
   </p>
 </details> 
@@ -82,7 +80,6 @@
 <details> 
   <summary>Course Completion: <b>6/6 with final grade of 98.0%</b></summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_RWDD2_ResponsiveWebDesign/CompletedGrade.png" width="100%">
     <img src="https://raw.githubusercontent.com/demetrios-koziris/OnlineCourseWork/master/Coursera_RWDD2_ResponsiveWebDesign/Completion.png" width="100%">
 </details> 
 
